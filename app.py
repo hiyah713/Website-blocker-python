@@ -8,8 +8,8 @@ sites_to_block = [
     "facebook.com",
     "www.youtube.com",
     "youtube.com",
-    "www.gmail.com",
-    "gmail.com",
+    "padlet.com",
+    "nitrotype.com",
 ]
 
 # different hosts for different os
